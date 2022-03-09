@@ -1,1 +1,2 @@
-export HOLBERTON="Betty" 
+#!/bin/bash
+export SCHOOL="best" 
